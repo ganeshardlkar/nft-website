@@ -1,6 +1,3 @@
-https://codesandbox.io/s/sweet-khorana-19bd7r
-14:52 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
